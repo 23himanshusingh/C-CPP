@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"sum prime.C": "cpp",
+			"sum_ prime.C": "cpp",
+			"replace,.C": "cpp",
+			"using strtok().C": "cpp",
+			"A2-B2.C": "cpp",
+			"SUBSTRING.C": "cpp"
+		}
+	}
+}
